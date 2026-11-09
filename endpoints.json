@@ -1,14 +1,12 @@
 {
-  "payload": "eyJzY2hlbWFWZXJzaW9uIjoxLCJpc3N1ZWRBdCI6IjIwMjYtMTEtMDlUMDE6NTU6MjUuODE5WiIsInByaW1hcnkiOiJodHRwczovL21kbS1hcHAuay1zYW5nby5jb20iLCJmYWxsYmFja3MiOlsiaHR0cHM6Ly9va2lrYW4tcGMtbWRtLm9ucmVuZGVyLmNvbSJdLCJub3RlIjoiU3RhYmxlIGRvbWFpbiB3aXRoIFJlbmRlciByZWNvdmVyeSBlbmRwb2ludDsgZW5yb2xsbWVudCBhbmQgcm9sbG91dCByZXF1aXJlIHZhbGlkYXRpb24uIn0=",
-  "signature": "fcYmjg49pSXQkjOMxAbCvKsfriM2AtGg+QFxahXGnAcMeK6Duhhpjkm2GkAr7oMxNBbxMWQKJQN0raBMDEOz0h6X7vkcqgnKqp64SlcCzQd9KW4VEBW1AxD2/hrIWJbAzW3uP1x6gFakxQfRHzhEYEKi1DHQ3XVbSAC6Y41frgyqu9olhyt0fcjxA1f9KotRs8zA4w2F+jSvgwlcKvOPOkimXQ4qmMG856knxCBUyuZQ0J0fCY2ugBVyGgzdhGeKdWOVvZ49fzwVZi9WKgfqZVufhS2P9fDE3CyLQktVw+HShGEDpOHzSBjMD7eDS9F3aGOONxwY92M7YuOTRwtJ7Q==",
+  "payload": "eyJzY2hlbWFWZXJzaW9uIjoxLCJpc3N1ZWRBdCI6IjIwMjYtMTEtMDlUMDE6NTY6MjIuOTAxWiIsInByaW1hcnkiOiJodHRwczovL29raWthbi1wYy1tZG0ub25yZW5kZXIuY29tIiwiZmFsbGJhY2tzIjpbXSwibm90ZSI6IlJlbmRlciBvbmx5LiBDbG91ZGZsYXJlIGFuZCBDb29saWZ5IGFyZSBubyBsb25nZXIgdXNlZC4ifQ==",
+  "signature": "F4PgeEc6zpRgFIuDWbPQK8eWyx6MgYo5en+cMWbj7Vydczg/xecnPoR7egY2pX8g0J4s5aSvhjyjc99mk417Qav8tEyd/Tsb3VJpA9+95ZU4sKq30XKsO6dNoU7r2UhOSUtbmZpX+/jefiW5m91MeYEsmathpu8GugebOrkC0Rfaixb3IoFz+Z38WTTIHNxIgifJsfxOjV3sKIclIoCMbmnw1J5a6WM0uvSQyHgqGw4apkQqu14HRMD5YLG2X2YvFVZVnip49ClWrKU9NnvBTRwR7cEY4Qc8ArTVVfcU2wgh+ory/rA5UImA1rcQFWTCzUf2cAikdKKHHIQQ/KQM5A==",
   "algorithm": "RSASSA-PKCS1-v1_5-SHA256",
   "preview": {
     "schemaVersion": 1,
-    "issuedAt": "2026-11-09T01:55:25.819Z",
-    "primary": "https://mdm-app.k-sango.com",
-    "fallbacks": [
-      "https://okikan-pc-mdm.onrender.com"
-    ],
-    "note": "Stable domain with Render recovery endpoint; enrollment and rollout require validation."
+    "issuedAt": "2026-11-09T01:56:22.901Z",
+    "primary": "https://okikan-pc-mdm.onrender.com",
+    "fallbacks": [],
+    "note": "Render only. Cloudflare and Coolify are no longer used."
   }
 }
